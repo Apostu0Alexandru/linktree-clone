@@ -1,0 +1,26 @@
+{
+    "name": "Alexandru Apostu",
+    "avatar": "/images/profile.jpg",
+    "links": [
+        {
+            "title": "My personal blog",
+            "href": "nextjs-blog-sigma-ten-49.vercel.app"
+        },
+        {
+            "title": "Github",
+            "href": "https://github.com/Apostu0Alexandru"
+        },
+        {
+            "title": "Linkdin",
+            "href": "https://github.com/Apostu0Alexandru"
+        },
+        {
+            "title": "I post cool pics here",
+            "href": "https://www.instagram.com/alexapostu_/"
+        },
+        {
+            "title" : "I watch the tweet birds here",
+            "href" : "https://www.instagram.com/alexapostu_/"
+        }
+    ]
+}
